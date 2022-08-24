@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @poddaravishak
 - 👀 I’m interested in programming
-- - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+
+ 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
