@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poddaravishak&label=Profile%20views&color=0e75b6&style=flat" alt="poddaravishak" /> </p>
 
-- 🔭 I’m currently working on **Blockchain**
+-
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [http://eterces.com/](http://eterces.com/)
 
