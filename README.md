@@ -1,24 +1,48 @@
-<h1 align="center">Hi 👋, I'm Avishak Poddar</h1>
-<h3 align="center">A passionate Android developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+# Hi there! 👋
 
+I'm Avishak, a software developer and entrepreneur with a passion for creating innovative digital solutions. I specialize in custom software development, mobile apps, and e-learning platforms. Currently, I'm focused on my company, Eterces, and our e-learning platform, [etslearning.net](https://etslearning.net).
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poddaravishak&label=Profile%20views&color=0e75b6&style=flat" alt="poddaravishak" /> </p>
+## 🚀 About Me
 
--
+- **Founder of Eterces**: Leading a team to develop cutting-edge software solutions.
+- **Project Lead for etslearning.net**: An e-learning platform offering comprehensive academic and skill development courses.
+- **Flutter Enthusiast**: Developing mobile applications with Flutter to enhance user experiences.
+- **IELTS Preparation**: Committed to improving my English proficiency for global opportunities.
 
-- 🌱 I’m currently learning **AI**
+## 💼 Skills
 
-- 👨‍💻 All of my projects are available at [http://eterces.com/](http://eterces.com/)
+- **Programming Languages**: Dart, JavaScript, Python
+- **Frameworks**: Flutter, React Native, Django
+- **Technologies**: Firebase, REST APIs, GraphQL, Blockchain
+- **Tools**: Git, Docker, CI/CD Pipelines
+- **Soft Skills**: Project Management, Team Leadership, Problem Solving
 
-- 💬 Ask me about **Android , web , Blockchain**
+## 🛠️ Projects
 
-- 📫 How to reach me **avishakpoddar@gmail.com**
+### [etslearning_app](https://github.com/yourusername/etslearning_app)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/podder.avishak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="podder.avishak" height="30" width="40" /></a>
-<a href="https://instagram.com/avishakpodder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avishakpodder" height="30" width="40" /></a>
-</p>
+An innovative mobile application for the etslearning.net platform, developed using Flutter. Features include user authentication, live and recorded classes, interactive exams, and more.
 
+### [Eterces](https://www.eterces.com)
 
+The parent company behind various digital services, including custom software development, mobile app development, and blockchain solutions.
+
+## 🌱 Currently Learning
+
+- Advanced Flutter features and best practices
+- AI and machine learning integration
+- New trends in blockchain technology
+
+## 📈 GitHub Stats
+
+![Avishak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true)
+
+## 📫 How to Reach Me
+
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+
+## 🤝 Let's Connect!
+
+I'm always open to new opportunities and collaborations. Feel free to reach out if you have any questions or just want to chat about technology and software development!
