@@ -1,124 +1,45 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C853,100:00E676&height=220&section=header&text=Avishak%20Poddar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI/ML%20Enthusiast%20%7C%20Founder&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:00A651,100:00C853&height=200&section=header&text=Avishak%20Poddar&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Founder%20%26%20CEO%20%40%20Eterces%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%2FML&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Avishak Poddar"/>
+
+<a href="https://avishak.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=640&lines=Building+AI-powered+products+for+real+businesses;5%2B+years+in+Android+%26+Flutter+development;Founder+of+Eterces+%26+ETS+Learning;Applied+ML+%E2%80%A2+Computer+Vision+%E2%80%A2+NLP" alt="Typing intro"/>
+</a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-avishak.com-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://avishak.com)
-[![Email](https://img.shields.io/badge/Email-avishakpoddar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishakpoddar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avishakpoddar)
-[![Phone](https://img.shields.io/badge/Call-%2B880_1767269929-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801767269929)
+[![Website](https://img.shields.io/badge/avishak.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00C853)](https://avishak.com)
+[![Eterces](https://img.shields.io/badge/eterces.com-0d1117?style=for-the-badge&logo=rocket&logoColor=00C853)](https://eterces.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishak-poddar/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishakpoddar@gmail.com)
+[![CV](https://img.shields.io/badge/Download_CV-00C853?style=for-the-badge&logo=readdotcv&logoColor=white)](https://www.avishak.com/Avishak-Poddar-CV.pdf)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm **Avishak Poddar** — a Computer Science Engineer from **Naogaon, Bangladesh** with **5+ years** of professional experience in Android development, now passionately diving deep into **AI/ML**. I'm the founder of [**Eterces Digital Solutions**](https://eterces.com) and [**ETS Learning**](https://etslearning.com) (EdTech startup), building software that solves real problems for the Bangladeshi market and beyond.
+I'm a **Software Engineer and founder** based in Bangladesh, with **5+ years of experience** building Android and Flutter applications and a growing focus on **applied AI/ML**. I founded [**Eterces**](https://eterces.com), a software company where I lead an engineering team delivering custom web, mobile, blockchain and AI-powered SaaS solutions for SMEs worldwide, and [**ETS Learning**](https://etslearning.com), an EdTech platform for courses, live classes and assessments.
 
-```text
-🔭  Currently building    →  BiteDesk (Multi-business POS SaaS) & Crop Disease Detector
-🌱  Currently learning    →  Advanced Deep Learning, NLP, Computer Vision
-🎯  Goal                  →  Pursue a Master's in AI/ML
-🏢  Company               →  Eterces Digital Solutions (eterces.com)
-📍  Based in              →  Naogaon, Bangladesh
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Mobile & Frontend
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
+I care about shipping software that solves real problems — from offline-first POS systems for local merchants to ML models that help farmers diagnose crop disease on low-end phones.
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-### 🍽️ BiteDesk — POS SaaS
-> Multi-business Point of Sale system built for Bangladesh
-- **Stack:** Next.js · PostgreSQL · PWA
-- bKash/Nagad/Rocket payment integration
-- NBR VAT compliance · Bilingual UI (Bangla/English)
-- Offline-first · Thermal printer support
-- RBAC-based staff & owner login system
+**Currently**
+- Leading engineering at **Eterces** (Founder & CEO)
+- Building **BiteDesk** and **Crop Disease Detector**
+- Deepening my work in Deep Learning, NLP and CV
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
-### 🌾 Crop Disease Detector
-> AI-powered mobile app for Bangladeshi farmers
-- **Stack:** Flutter · TensorFlow Lite · Claude API
-- Real-time crop disease diagnosis via camera
-- Initial crops: Rice, Tomato, Potato, Chilli
-- Lightweight ML model for low-end devices
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💬 FlowDesk — Chat Automation SaaS
-> Enterprise-grade chat automation for BD businesses
-- **Stack:** Next.js · Node.js
-- 6 business category pricing tiers (BDT)
-- Login, registration & pricing modules
-
-</td>
-<td width="50%">
-
-### 🌐 Eterces Digital Solutions
-> Full-service software & digital agency
-- **Website:** [eterces.com](https://eterces.com)
-- Mobile/Web Dev · AI/ML · Blockchain
-- DevOps · Cloud · Digital Services
-- Serving diverse clients across Bangladesh
+**Next**
+- Pursuing a **Master's in AI/ML**
+- Open to research collaborations, freelance and full-time roles
+- Reach me at **avishakpoddar@gmail.com**
 
 </td>
 </tr>
@@ -126,58 +47,178 @@ I'm **Avishak Poddar** — a Computer Science Engineer from **Naogaon, Banglades
 
 ---
 
-## 📜 Certifications
+## Experience
 
-🏅 **2× ML Certifications** — DeepLearning.AI (Andrew Ng)
+| Role | Organization | Period |
+|:--|:--|:--|
+| **Founder & CEO** | [Eterces](https://eterces.com) — custom software, AI & blockchain development (Rajshahi, BD) | 2022 – Present |
+| **Founder** | [ETS Learning](https://etslearning.com) — online education platform: course creation, live classes, assessments | Apr 2024 – Present |
+| **Android & Flutter Developer** | Mobile apps across EdTech, Web3 and AI products | 5+ years |
+| **Internship Trainee** | Bangladesh Research & Education Network (BdREN) — network containerization & management tools | Jun – Jul 2022 |
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### BiteDesk
+**Multi-business POS SaaS for Bangladesh**
+
+Offline-first point-of-sale PWA with bKash / Nagad / Rocket payments, NBR VAT compliance, bilingual (Bangla/English) UI, thermal printer support and role-based staff access.
+
+`Next.js` `PostgreSQL` `PWA`
+
+</td>
+<td valign="top" width="50%">
+
+### Crop Disease Detector
+**AI diagnosis for Bangladeshi farmers**
+
+Camera-based, real-time disease detection for rice, tomato, potato and chilli — with a lightweight on-device model designed for low-end smartphones.
+
+`Flutter` `TensorFlow Lite` `Claude API`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### FlowDesk
+**Chat automation SaaS**
+
+Enterprise-grade conversational automation for local businesses, with tiered pricing across six business categories.
+
+`Next.js` `Node.js`
+
+</td>
+<td valign="top" width="50%">
+
+### Blockchain Real Estate Marketplace
+**Undergraduate thesis · Web3**
+
+Decentralized property listing, ownership and transactions using smart contracts and IPFS storage.
+
+`Solidity` `Hardhat` `Ethers.js` `IPFS`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### ETS Learning
+**EdTech platform**
+
+End-to-end learning platform for course creation, live classes, assessments and student–instructor engagement.
+
+`Web` `Mobile`
+
+</td>
+<td valign="top" width="50%">
+
+### Logic Bot
+**AI virtual assistant**
+
+Cross-platform assistant that generates text and images via the OpenAI API.
+
+`Flutter` `Dart` `OpenAI API`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <b>Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,py,js,c,cpp&theme=dark" alt="Languages"/>
+</p>
+
+<p align="center">
+  <b>Mobile & Web</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,nextjs,react,nodejs&theme=dark" alt="Mobile and Web"/>
+</p>
+
+<p align="center">
+  <b>AI / ML</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="AI ML"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-00A651?style=flat-square" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square" alt="NLP"/>
+</p>
+
+<p align="center">
+  <b>Data, Cloud & DevOps</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,docker,aws,gcp,vercel,cloudflare,git,github,postman&theme=dark" alt="Cloud and DevOps"/>
+</p>
+
+<p align="center">
+  <b>Architecture & Practices</b><br/><br/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-0d1117?style=flat-square" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/MVVM-0d1117?style=flat-square" alt="MVVM"/>
+  <img src="https://img.shields.io/badge/BLoC-0d1117?style=flat-square" alt="BLoC"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/>
+</p>
+
+---
+
+## Education, Certifications & Awards
+
+**B.Sc. in Computer Science & Engineering** — Bangladesh Army University of Engineering and Technology (BAUET), 2019 – 2023
+<br/><sub>Thesis: Blockchain-Based Real Estate Marketplace</sub>
+
+| Certification | Issuer |
+|:--|:--|
+| Supervised Machine Learning: Regression and Classification | DeepLearning.AI · Stanford University |
+| Advanced Learning Algorithms | DeepLearning.AI |
+
+| Award | Project |
+|:--|:--|
+| **Champion** — Mind Storm 4.0 (2023) | AI-based context-aware personal assistant |
+| **Runner-Up** — Mind Storm 3.0 (2022) | University management mobile app |
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=avishakpoddar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C853&icon_color=00E676&text_color=c9d1d9" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishakpoddar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=poddaravishak&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C853&icon_color=00C853&text_color=c9d1d9&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poddaravishak&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&langs_count=8" height="165" alt="Top languages"/>
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=poddaravishak&hide_border=true&background=0d1117&stroke=00C853&ring=00C853&fire=00E676&currStreakLabel=00C853&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avishakpoddar&theme=radical&hide_border=true&background=0d1117&stroke=00C853&ring=00E676&fire=00E676&currStreakLabel=00C853" width="600"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=poddaravishak&bg_color=0d1117&color=c9d1d9&line=00C853&point=00E676&area=true&area_color=00C853&hide_border=true" width="100%" alt="Contribution graph"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avishakpoddar/avishakpoddar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avishakpoddar/avishakpoddar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/avishakpoddar/avishakpoddar/output/github-snake-dark.svg" />
-</picture>
+### Let's build something meaningful
 
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect & Build Something Great
-
-*Open to collaboration, freelance projects, and research opportunities in AI/ML.*
+Open to **AI/ML research collaborations**, **freelance projects** and **engineering roles**.
+<br/>
+For business inquiries, visit [**eterces.com**](https://eterces.com/contact).
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_avishak.com-00C853?style=for-the-badge)](https://avishak.com)
-[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge)](mailto:avishakpoddar@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge)](https://wa.me/8801767269929)
+[![Website](https://img.shields.io/badge/Portfolio-avishak.com-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://avishak.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avishak--poddar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishak-poddar/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B880_1767269929-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801767269929)
+![Profile views](https://komarev.com/ghpvc/?username=poddaravishak&color=00C853&style=flat-square&label=Profile+Views)
 
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=avishakpoddar&color=00C853&style=flat-square&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C853,100:00E676&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,40:00A651,100:0d1117&height=110&section=footer" width="100%" alt=""/>
 
 </div>
