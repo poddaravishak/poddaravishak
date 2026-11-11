@@ -1,9 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:00A651,100:00C853&height=200&section=header&text=Avishak%20Poddar&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Founder%20%26%20CEO%20%40%20Eterces%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%2FML&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Avishak Poddar"/>
+<img src="https://www.avishak.com/images/Avishak%20Poddar.jpeg" width="150" alt="Avishak Poddar"/>
+
+# Avishak Poddar
+
+**Founder & CEO, [Eterces](https://eterces.com) &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; Applied AI/ML**
 
 <a href="https://avishak.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=640&lines=Building+AI-powered+products+for+real+businesses;5%2B+years+in+Android+%26+Flutter+development;Founder+of+Eterces+%26+ETS+Learning;Applied+ML+%E2%80%A2+Computer+Vision+%E2%80%A2+NLP" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1400&color=00A651&center=true&vCenter=true&width=620&lines=Building+AI-powered+products+for+real+businesses;5%2B+years+of+Android+%26+Flutter+engineering;Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+Applied+Machine+Learning" alt="Intro"/>
 </a>
 
 <br/>
@@ -11,35 +15,88 @@
 [![Website](https://img.shields.io/badge/avishak.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00C853)](https://avishak.com)
 [![Eterces](https://img.shields.io/badge/eterces.com-0d1117?style=for-the-badge&logo=rocket&logoColor=00C853)](https://eterces.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishak-poddar/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishakpoddar@gmail.com)
-[![CV](https://img.shields.io/badge/Download_CV-00C853?style=for-the-badge&logo=readdotcv&logoColor=white)](https://www.avishak.com/Avishak-Poddar-CV.pdf)
+[![Email](https://img.shields.io/badge/avishak@eterces.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishak@eterces.com)
+[![CV](https://img.shields.io/badge/Download_CV-00A651?style=for-the-badge&logo=readdotcv&logoColor=white)](https://www.avishak.com/Avishak-Poddar-CV.pdf)
 
 </div>
 
+<br/>
+
+> [!IMPORTANT]
+> ### Open to AI/ML Research Collaborations
+> I'm actively looking to collaborate with researchers, labs and teams on **applied machine learning** — particularly **computer vision**, **natural language processing** and **AI for real-world, resource-constrained settings** such as agriculture and small businesses in emerging markets.
+>
+> **Reach out:** [avishak@eterces.com](mailto:avishak@eterces.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/avishak-poddar/)
+
 ---
 
-## About Me
+## About
 
-I'm a **Software Engineer and founder** based in Bangladesh, with **5+ years of experience** building Android and Flutter applications and a growing focus on **applied AI/ML**. I founded [**Eterces**](https://eterces.com), a software company where I lead an engineering team delivering custom web, mobile, blockchain and AI-powered SaaS solutions for SMEs worldwide, and [**ETS Learning**](https://etslearning.com), an EdTech platform for courses, live classes and assessments.
+I'm a software engineer and entrepreneur from Bangladesh with **5+ years of experience** engineering Android and Flutter applications, now focused on **applied AI/ML**. As **Founder & CEO of [Eterces](https://eterces.com)**, I lead a multidisciplinary team of full-stack, mobile, blockchain and growth specialists delivering custom web, mobile and AI-powered SaaS products for SMEs worldwide.
 
-I care about shipping software that solves real problems — from offline-first POS systems for local merchants to ML models that help farmers diagnose crop disease on low-end phones.
+My work sits where solid engineering meets practical intelligence — from offline-first POS platforms for local merchants to lightweight on-device models that help farmers diagnose crop disease on entry-level phones.
+
+---
+
+## Education & Credentials
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="100%">
 
-**Currently**
-- Leading engineering at **Eterces** (Founder & CEO)
-- Building **BiteDesk** and **Crop Disease Detector**
-- Deepening my work in Deep Learning, NLP and CV
+### 🎓 Bachelor of Science in Computer Science & Engineering
+**Bangladesh Army University of Engineering & Technology (BAUET)** &nbsp;|&nbsp; 2019 – 2023
+
+**Undergraduate Thesis — *Blockchain-Based Real Estate Marketplace***
+<br/>Designed and implemented a decentralized platform for property listing, ownership transfer and transactions using Ethereum smart contracts, with documents stored on IPFS.
+<br/><sub>`Solidity` · `Hardhat` · `Ethers.js` · `MetaMask` · `IPFS`</sub>
 
 </td>
-<td valign="top" width="50%">
+</tr>
+</table>
 
-**Next**
-- Pursuing a **Master's in AI/ML**
-- Open to research collaborations, freelance and full-time roles
-- Reach me at **avishakpoddar@gmail.com**
+| Credential | Issuer | Details |
+|:--|:--|:--|
+| **IELTS** | English Language Proficiency | Overall Band **6.5** |
+| **Supervised Machine Learning: Regression and Classification** | DeepLearning.AI · Stanford University | Machine Learning Specialization |
+| **Advanced Learning Algorithms** | DeepLearning.AI | Machine Learning Specialization |
+| **Champion — Mind Storm 4.0** (2023) | Project Competition | AI-based context-aware personal assistant |
+| **Runner-Up — Mind Storm 3.0** (2022) | Project Competition | University management mobile app |
+
+---
+
+## Experience
+
+<table>
+<tr>
+<td width="90" align="center" valign="top">
+  <a href="https://eterces.com"><img src="https://eterces.com/logo.png" width="64" alt="Eterces"/></a>
+</td>
+<td valign="top">
+
+**Founder & CEO — [Eterces](https://eterces.com)** &nbsp;·&nbsp; *2022 – Present* &nbsp;·&nbsp; Rajshahi, Bangladesh
+<br/>Custom software company delivering web, mobile, blockchain, AI/ML, data engineering, DevOps and cloud solutions for SMEs worldwide.
+- Lead product strategy, architecture and delivery across client engagements and in-house products
+- Built and manage a cross-functional team spanning full-stack, mobile, Rust/blockchain and digital growth
+- Run a fixed-milestone, weekly-demo delivery model focused on long-term client partnerships
+
+</td>
+</tr>
+<tr>
+<td width="90" align="center" valign="top">📱</td>
+<td valign="top">
+
+**Android & Flutter Engineer** &nbsp;·&nbsp; *5+ years*
+<br/>Production mobile applications across EdTech, Web3 and AI using Kotlin, Java, Dart, Jetpack Compose, MVVM, BLoC and Clean Architecture.
+
+</td>
+</tr>
+<tr>
+<td width="90" align="center" valign="top">🌐</td>
+<td valign="top">
+
+**Internship Trainee — Bangladesh Research & Education Network (BdREN)** &nbsp;·&nbsp; *Jun – Jul 2022*
+<br/>Worked on network containerization and network-management tooling supporting connectivity across Bangladeshi universities and research institutions.
 
 </td>
 </tr>
@@ -47,18 +104,45 @@ I care about shipping software that solves real problems — from offline-first 
 
 ---
 
-## Experience
+## Coming Soon — Eterces Hotel Management System
 
-| Role | Organization | Period |
-|:--|:--|:--|
-| **Founder & CEO** | [Eterces](https://eterces.com) — custom software, AI & blockchain development (Rajshahi, BD) | 2022 – Present |
-| **Founder** | [ETS Learning](https://etslearning.com) — online education platform: course creation, live classes, assessments | Apr 2024 – Present |
-| **Android & Flutter Developer** | Mobile apps across EdTech, Web3 and AI products | 5+ years |
-| **Internship Trainee** | Bangladesh Research & Education Network (BdREN) — network containerization & management tools | Jun – Jul 2022 |
+<table>
+<tr>
+<td width="90" align="center" valign="top">
+  <img src="https://eterces.com/logo.png" width="64" alt="Eterces"/>
+</td>
+<td valign="top">
+
+A **completely paperless hotel management platform** — Eterces' own flagship product, built to digitize hotel operations end to end with **100+ features** in a single system.
+
+![Status](https://img.shields.io/badge/status-in_development-00A651?style=flat-square)
+![Type](https://img.shields.io/badge/product-Eterces_in--house-0d1117?style=flat-square)
+![Features](https://img.shields.io/badge/features-100%2B-0d1117?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Featured Projects
+
+<table>
+<tr>
+<td valign="top">
+
+<a href="https://www.setwed.com/"><img src="https://www.setwed.com/logo.png" height="40" alt="SetWed"/></a>
+
+### [SetWed](https://www.setwed.com/)
+**AI-powered relationship platform for marriage-minded singles**
+
+A "Relationship OS" with goal-based onboarding, AI compatibility matching with transparent match explanations, multi-state profile verification, privacy controls and encrypted real-time messaging. Launching on web, iOS and Android.
+
+[![Visit](https://img.shields.io/badge/Visit-setwed.com-0d1117?style=flat-square&logo=googlechrome&logoColor=white)](https://www.setwed.com/)
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -67,7 +151,7 @@ I care about shipping software that solves real problems — from offline-first 
 ### BiteDesk
 **Multi-business POS SaaS for Bangladesh**
 
-Offline-first point-of-sale PWA with bKash / Nagad / Rocket payments, NBR VAT compliance, bilingual (Bangla/English) UI, thermal printer support and role-based staff access.
+Offline-first point-of-sale PWA with bKash / Nagad / Rocket payments, NBR VAT compliance, bilingual (Bangla/English) UI, thermal-printer support and role-based staff access.
 
 `Next.js` `PostgreSQL` `PWA`
 
@@ -77,7 +161,7 @@ Offline-first point-of-sale PWA with bKash / Nagad / Rocket payments, NBR VAT co
 ### Crop Disease Detector
 **AI diagnosis for Bangladeshi farmers**
 
-Camera-based, real-time disease detection for rice, tomato, potato and chilli — with a lightweight on-device model designed for low-end smartphones.
+Camera-based, real-time disease detection for rice, tomato, potato and chilli, powered by a lightweight on-device model optimized for low-end smartphones.
 
 `Flutter` `TensorFlow Lite` `Claude API`
 
@@ -89,7 +173,7 @@ Camera-based, real-time disease detection for rice, tomato, potato and chilli �
 ### FlowDesk
 **Chat automation SaaS**
 
-Enterprise-grade conversational automation for local businesses, with tiered pricing across six business categories.
+Enterprise-grade conversational automation for local businesses, with tiered plans across six business categories.
 
 `Next.js` `Node.js`
 
@@ -97,33 +181,11 @@ Enterprise-grade conversational automation for local businesses, with tiered pri
 <td valign="top" width="50%">
 
 ### Blockchain Real Estate Marketplace
-**Undergraduate thesis · Web3**
+**Web3 · Undergraduate thesis**
 
 Decentralized property listing, ownership and transactions using smart contracts and IPFS storage.
 
 `Solidity` `Hardhat` `Ethers.js` `IPFS`
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### ETS Learning
-**EdTech platform**
-
-End-to-end learning platform for course creation, live classes, assessments and student–instructor engagement.
-
-`Web` `Mobile`
-
-</td>
-<td valign="top" width="50%">
-
-### Logic Bot
-**AI virtual assistant**
-
-Cross-platform assistant that generates text and images via the OpenAI API.
-
-`Flutter` `Dart` `OpenAI API`
 
 </td>
 </tr>
@@ -133,59 +195,13 @@ Cross-platform assistant that generates text and images via the OpenAI API.
 
 ## Tech Stack
 
-<p align="center">
-  <b>Languages</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,py,js,c,cpp&theme=dark" alt="Languages"/>
-</p>
-
-<p align="center">
-  <b>Mobile & Web</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,nextjs,react,nodejs&theme=dark" alt="Mobile and Web"/>
-</p>
-
-<p align="center">
-  <b>AI / ML</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="AI ML"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-00A651?style=flat-square" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square" alt="NLP"/>
-</p>
-
-<p align="center">
-  <b>Data, Cloud & DevOps</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,docker,aws,gcp,vercel,cloudflare,git,github,postman&theme=dark" alt="Cloud and DevOps"/>
-</p>
-
-<p align="center">
-  <b>Architecture & Practices</b><br/><br/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-0d1117?style=flat-square" alt="Clean Architecture"/>
-  <img src="https://img.shields.io/badge/MVVM-0d1117?style=flat-square" alt="MVVM"/>
-  <img src="https://img.shields.io/badge/BLoC-0d1117?style=flat-square" alt="BLoC"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/>
-</p>
-
----
-
-## Education, Certifications & Awards
-
-**B.Sc. in Computer Science & Engineering** — Bangladesh Army University of Engineering and Technology (BAUET), 2019 – 2023
-<br/><sub>Thesis: Blockchain-Based Real Estate Marketplace</sub>
-
-| Certification | Issuer |
+| Domain | Technologies |
 |:--|:--|
-| Supervised Machine Learning: Regression and Classification | DeepLearning.AI · Stanford University |
-| Advanced Learning Algorithms | DeepLearning.AI |
-
-| Award | Project |
-|:--|:--|
-| **Champion** — Mind Storm 4.0 (2023) | AI-based context-aware personal assistant |
-| **Runner-Up** — Mind Storm 3.0 (2022) | University management mobile app |
+| **Languages** | <img src="https://skillicons.dev/icons?i=kotlin,java,dart,py,js,c,cpp&theme=dark" height="36" alt="Languages"/> |
+| **Mobile & Web** | <img src="https://skillicons.dev/icons?i=androidstudio,flutter,nextjs,react,nodejs&theme=dark" height="36" alt="Mobile and Web"/> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" height="36" alt="AI ML"/> &nbsp; ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![CV](https://img.shields.io/badge/Computer_Vision-00A651?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-6E40C9?style=flat-square) |
+| **Data, Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=postgres,supabase,docker,aws,gcp,vercel,cloudflare,git,github,postman&theme=dark" height="36" alt="Cloud and DevOps"/> |
+| **Architecture** | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0d1117?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-0d1117?style=flat-square) ![BLoC](https://img.shields.io/badge/BLoC-0d1117?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
 
 ---
 
@@ -193,12 +209,33 @@ Cross-platform assistant that generates text and images via the OpenAI API.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=poddaravishak&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C853&icon_color=00C853&text_color=c9d1d9&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poddaravishak&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&langs_count=8" height="165" alt="Top languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poddaravishak&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poddaravishak&theme=github" width="100%" alt="Profile details and contributions"/>
+</picture>
 
-<img src="https://streak-stats.demolab.com/?user=poddaravishak&hide_border=true&background=0d1117&stroke=00C853&ring=00C853&fire=00E676&currStreakLabel=00C853&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poddaravishak&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poddaravishak&theme=github" width="49%" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=poddaravishak&theme=github_dark&utcOffset=6"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=poddaravishak&theme=github&utcOffset=6" width="49%" alt="Commit activity by time of day"/>
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=poddaravishak&bg_color=0d1117&color=c9d1d9&line=00C853&point=00E676&area=true&area_color=00C853&hide_border=true" width="100%" alt="Contribution graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poddaravishak&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poddaravishak&theme=github" width="49%" alt="Top languages by repository"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poddaravishak&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poddaravishak&theme=github" width="49%" alt="Top languages by commit"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=poddaravishak&hide_border=true&ring=00A651&fire=00A651&currStreakLabel=00A651&background=0D1117&stroke=30363D&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E"/>
+  <img src="https://streak-stats.demolab.com/?user=poddaravishak&hide_border=true&ring=00A651&fire=00A651&currStreakLabel=00A651" width="70%" alt="Contribution streak"/>
+</picture>
 
 </div>
 
@@ -206,19 +243,16 @@ Cross-platform assistant that generates text and images via the OpenAI API.
 
 <div align="center">
 
-### Let's build something meaningful
+### Let's work together
 
-Open to **AI/ML research collaborations**, **freelance projects** and **engineering roles**.
-<br/>
-For business inquiries, visit [**eterces.com**](https://eterces.com/contact).
+Research collaborations · Product partnerships · Engineering consulting
 
-<br/>
-
-[![Website](https://img.shields.io/badge/Portfolio-avishak.com-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://avishak.com)
+[![Email](https://img.shields.io/badge/avishak@eterces.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:avishak@eterces.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-avishak--poddar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishak-poddar/)
+[![Website](https://img.shields.io/badge/Portfolio-avishak.com-00A651?style=flat-square&logo=googlechrome&logoColor=white)](https://avishak.com)
+[![Eterces](https://img.shields.io/badge/Company-eterces.com-0d1117?style=flat-square&logo=rocket&logoColor=white)](https://eterces.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B880_1767269929-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801767269929)
-![Profile views](https://komarev.com/ghpvc/?username=poddaravishak&color=00C853&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,40:00A651,100:0d1117&height=110&section=footer" width="100%" alt=""/>
+<sub>Rajshahi, Bangladesh · GMT+6</sub>
 
 </div>
